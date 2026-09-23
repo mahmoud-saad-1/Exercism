@@ -1,1 +1,1 @@
-# Exercism-Python
+# Exercism Solutions
